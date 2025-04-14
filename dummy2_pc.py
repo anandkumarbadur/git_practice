@@ -1,4 +1,3 @@
 print("fiyma")
 
 
-print("")
